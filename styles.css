@@ -10,8 +10,8 @@ h1 {
 }
 
 .img-circle { 
-	border-radius: 50%;
-	width: 50%;
+	border-radius: 30%;
+	width: 30%;
 	display: block;
 	margin: auto; 
 }
@@ -19,6 +19,17 @@ h1 {
 .tutorial {
 	color:  #131923 
 	font-size: 500px; 
+}
+
+.info {
+	margin: 50px 0 0 0;
+	padding: 20px;
+}
+.img-cirlce2 {
+	border-radius: 30;
+	width: 30;
+	display: block;
+	margin: auto;
 }
 
 body { 
