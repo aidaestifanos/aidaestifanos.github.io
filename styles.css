@@ -1,10 +1,26 @@
-p{
-	color: blue;
+p { 
+	text-align: center; 	
 
 } 
-.tutorial {color: red; font-size: 200%; font-size-adjust: 0.58;
+h1 {
+	color: #131923;
+	font-size: 80px;
+	font-style: italic;
+	text-align: center;
 }
-.kodar {color: black; font-style: italic;}
+
+.img-circle { 
+	border-radius: 50%;
+	width: 50%;
+	display: block;
+	margin: auto; 
+}
+
+.tutorial {
+	color:  #131923 
+	font-size: 500px; 
+}
+
 body { 
-	 background-color: #2b5291; 
+	 background-color: #e8e9ea; 
 }
